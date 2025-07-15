@@ -1,5 +1,5 @@
 ## Galaxy News Radio
-<img src="https://github.com/romancewastaken/Galaxy-News-Radio/blob/main/logos/wasteland.png?raw=true" alt="Logo" width="500" height="400">
+<img src="https://github.com/romancewastaken/Galaxy-News-Radio/blob/main/logos/wasteland.png?raw=true" alt="Logo" width="900" height="400">
 
 ### Built With
 <div align="center">
