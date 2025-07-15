@@ -1,4 +1,5 @@
 {
     "serverPort": 80,
-    "keepServerAlive": false
+    "keepServerAlive": false,
+    "songsBetweenTracks": 3
 }
