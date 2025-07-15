@@ -32,6 +32,11 @@ To get a local copy up and running follow these simple steps.
     pm2 save
     ```
 
+
+## Usage
+1.) You can head to http://127.0.0.1:80/stream for webpage streaming or connecting via API, if you are hosting on a VPS 127.0.0.1 is replaced with your VPS IP and 80 port can be changed within the config
+2.) Shuffling, you can head to http://127.0.0.1:80/API/shuffle/(config.key) and pass in your correct key to shuffle the radio playlist
+
 ## Acknowledgments
 <div>
     <a href="https://nodejs.org/en/download/current">node.js</a> - run javascript on the CLI
