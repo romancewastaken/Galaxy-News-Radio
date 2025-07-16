@@ -48,6 +48,12 @@ To get a local copy up and running follow these simple steps.
     <a href="https://github.com/ch1ller0/fridgefm-radio-core">ch1ller0</a> - awesome radio package
 </div>
 
+## Bugs
+If you are expereincing a bug, you can make a report [here](https://github.com/romancewastaken/Galaxy-News-Radio/issues) but please check [known issues](https://github.com/romancewastaken/Galaxy-News-Radio/issues/1) first
+
+## Pull requests
+If you would like to make a pull request to contribute you can do so [here](https://github.com/romancewastaken/Galaxy-News-Radio/pullss)
+
 ## Licensing 
 Permissions
 * ✔️ Commercial use
